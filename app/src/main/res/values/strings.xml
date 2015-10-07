@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">La madame qui gronde</string>
+    <string name="menu_about">A propos</string>
+    <string name="about_title">A propos</string>
+    <string name="menu_manage_children">Gérer les enfants</string>
+    <string name="menu_manage_sentences">Gérer les réprimandes</string>
+    <string name="about_label_1">Cette application a été développée par Giwi Softwares.</string>
+    <string name="about_label_2"><a href="http://giwi.free.fr">http://giwi.free.fr</a></string>
+    <string name="main_choose_child">Choisir un enfant : </string>
+    <string name="main_scold">Gronder !!!</string>
+    <string name="main_title">La madame qui gronde</string>
+    <string name="scold_title">Choisir la réprimande</string>
+    <string name="add_child">Ajouter</string>
+    <string name="remove_child">Supprimer</string>
+    <string name="no_child">Veuillez enregistrer un ou plusieurs enfants (Menu > Gérer enfants)</string>
+    <string name="child_mgnt_store">Enregistrement réussi pour : </string>
+    <string name="child_mgnt_del">Suppression réussi pour : </string>
+    <string name="sentence_mgnt_store">Enregistrement réussi pour : </string>
+    <string name="sentence_mgnt_del">Suppression réussi pour : </string>
+    <string name="manage_sentences_help">Pour ajouter une nouvelle remontrance, il s\'uffit de la saisir dans le champs ci-dessus et de mettre \'XXX\' (en majuscules) à la place du nom de l\'enfant.</string>
+    <string name="alert_dialog_cancel">Refuser</string>
+    <string name="alert_dialog_ok">Accepter</string>
+    <string name="alert_dialog_title">Avertissement</string>
+    <string name="alert_dialog_mess">L\'application La Dame Qui Gronde aimerai bien collecter les prénoms et vos phrases, Acceptez vous?</string>
+
+    <string-array name="gronderies">
+        <item>XXX, dépêche toi de finir ton assiette!</item>²
+        <item>XXX, je ne suis pas contente!</item>
+        <item>XXX, je vais me facher!</item>
+        <item>XXX, je vais venir te donner une fessée!</item>
+        <item>"XXX, c'est l'heure de faire dodo!"</item>
+        <item>"Allez XXX, je ne veux plus t'entendre!"</item>
+    </string-array>
+    <string name="volume">Volume : </string>
+
+</resources>
